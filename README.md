@@ -25,8 +25,5 @@ This project is an AI-powered WhatsApp agent that automates doctor appointment b
 5. Availability is checked
 6. Confirmation message is sent to user
 
-## 📽️ Demo Reference
-YouTube Video: https://www.youtube.com/watch?v=_5ud3vEV3_M
-
 ## 👤 Author
 **Gujjula Sindhura**
